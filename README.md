@@ -3,11 +3,11 @@
 
 An introduction to UI ( User-Interface ).
 
-### Language Required
+## Language Required
 
-XML
+- XML
 
-### XML Syntax
+## XML Syntax
 
 ```
 <ClassName
@@ -16,7 +16,7 @@ XML
     attribut3 />
 ```
 
-#### Example
+### Example
 
 - TextView
 
