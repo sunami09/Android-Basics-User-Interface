@@ -11,9 +11,9 @@ An introduction to UI ( User-Interface ).
 
 ```
 <ClassName
-    attribut1
-    attribut2
-    attribut3 />
+    attributName1:attrinuteValue
+    attributName2:attrinuteValue
+    attributName3:attrinuteValue />
 ```
 
 ### Example
@@ -28,3 +28,25 @@ An introduction to UI ( User-Interface ).
         android:layout_height="75dp"
         />
 ```
+### Output
+<div align="center" width="200">
+
+
+<img src="https://user-images.githubusercontent.com/66564001/154357995-38fd0d62-01bf-4e10-8178-87c8190bd4ed.png" width="350"/>
+
+</div>
+
+
+## Authors
+
+- [@Sunami Dasgupta](https://github.com/sunami09)
+
+## License
+
+- [MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Support
+
+For support, email sunamidasgupta@gmail.com.
+
