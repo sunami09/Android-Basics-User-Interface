@@ -43,7 +43,7 @@ An introduction to UI ( User-Interface ).
 
 ## License
 
-- [MIT](https://choosealicense.com/licenses/mit/)
+- [MIT](https://github.com/sunami09/Android-Basics-User-Interface/blob/master/LICENSE)
 
 
 ## Support
